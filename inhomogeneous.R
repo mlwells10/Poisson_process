@@ -3,7 +3,7 @@ rm(list = ls())
 
 #Poisson process simulation
 
-#Homogeneous Poisson process
+#Inhomogeneous Poisson process
 
 #intensity functions
 lam.1 = function(x)
